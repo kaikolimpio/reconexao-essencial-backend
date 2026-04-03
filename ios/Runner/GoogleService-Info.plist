@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAJVNIvx09hSUN5uzRH1N-k0D76CjLdC_U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>821831278136</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.reconexaoessencial</string>
+	<key>PROJECT_ID</key>
+	<string>gen-lang-client-0934798565</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gen-lang-client-0934798565.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:821831278136:ios:9e3517edd67cabd5ef10cd</string>
+</dict>
+</plist>

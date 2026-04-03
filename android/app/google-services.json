@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "821831278136",
+    "project_id": "gen-lang-client-0934798565",
+    "storage_bucket": "gen-lang-client-0934798565.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821831278136:android:d2a2af75f4c30f6fef10cd",
+        "android_client_info": {
+          "package_name": "com.reconexaoessencial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821831278136-eak56auib2lkvq79lt6oit1bl8qi834g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUGl7RCJMcwfZ5xL7sBO8ZhdXhbMEbCoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821831278136-eak56auib2lkvq79lt6oit1bl8qi834g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

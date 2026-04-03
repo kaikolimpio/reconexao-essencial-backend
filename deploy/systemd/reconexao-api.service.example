@@ -1,0 +1,15 @@
+[Unit]
+Description=Reconexao Essencial FastAPI
+After=network.target
+
+[Service]
+User=www-data
+Group=www-data
+WorkingDirectory=/var/www/reconexao/app/repo/backend_fastapi
+EnvironmentFile=/var/www/reconexao/shared/env/api.env
+ExecStart=/var/www/reconexao/app/repo/backend_fastapi/.venv/bin/uvicorn app.main:app --host 127.0.0.1 --port 8000
+Restart=always
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target
